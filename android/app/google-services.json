@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "219710007137",
+    "project_id": "flower-studies",
+    "storage_bucket": "flower-studies.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219710007137:android:12b222dba22a8acc154720",
+        "android_client_info": {
+          "package_name": "com.example.app_flower_studies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2TzfX0voNF4OavErvxXfqenxDHQbvzsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219710007137:android:450780672dee0a33154720",
+        "android_client_info": {
+          "package_name": "com.example.estudo_flores"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2TzfX0voNF4OavErvxXfqenxDHQbvzsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219710007137:android:563067dfa435a860154720",
+        "android_client_info": {
+          "package_name": "com.example.flower_studies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2TzfX0voNF4OavErvxXfqenxDHQbvzsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
